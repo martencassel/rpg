@@ -1,0 +1,3 @@
+                R CUSTREC
+                  ACCOUNTID      4A         TEXT('ACCOUNT IDENTIFIER')
+                K ACCOUNTID
